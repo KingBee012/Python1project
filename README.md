@@ -1,6 +1,6 @@
 # Python1project
 
-This is a submission i made for analyzing stock data and extracting information.
+This is a submission I made for analyzing stock data and extracting information. The graphs can be run on your local network and will display.
 
 
 
